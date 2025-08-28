@@ -4,11 +4,9 @@
 
 #
 ### About me
-* I currently code in: C++, Typescript, Swift and others.
+* I currently code in: Swift, Flutter and React.
 
 * I like the development of mobile applications especially in IOS 📱.
-
-* Typescript #1fan 👾.
 #
 
 ### My stats
