@@ -41,3 +41,7 @@ When I'm not coding, you'll probably find me fishing, cooking, spending time wit
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-000000?style=for-the-badge)
 ![SOLID](https://img.shields.io/badge/SOLID-4B32C3?style=for-the-badge)
 ![Design Patterns](https://img.shields.io/badge/Design%20Patterns-FF6F00?style=for-the-badge)
+
+## Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/axeluz/)
