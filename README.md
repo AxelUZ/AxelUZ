@@ -1,15 +1,11 @@
-### Hi there 👋
-![giphy](https://github.com/AxelUZ/AxelUZ/assets/58340818/d776b6f1-8ab0-44f1-b05d-877b84e14609)
+# Hi, I'm Axel 👋
 
+Computer Science major focused on Full-Stack and Mobile Development.
 
-#
-### About me
-* I currently code in: Swift, Flutter and React.
+What excites me most about software isn't the endless list of technologies or the money it can generate (although that's a nice bonus). It's the opportunity to build products that genuinely bring value to people.
 
-* I like the development of mobile applications especially in IOS 📱.
-#
+I don't believe every application has to change the world. Sometimes, making someone's day a little easier, helping them solve a small problem, or simply giving them a few enjoyable minutes is already meaningful.
 
-### My stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AxelUZ&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AxelUZ&layout=compact&theme=tokyonight)
+Knowing that something I build can positively impact a person, a team, or an organization is what inspires me to keep learning, improving, and creating.
 
+> **"I believe the best software isn't defined by how complex it is, but by how useful it becomes for the people who use it."**
